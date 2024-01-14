@@ -1,1 +1,1 @@
-# pendataan-covid-19
+tinggal tambahin database sama models ny aj
